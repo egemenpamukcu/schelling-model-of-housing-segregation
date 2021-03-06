@@ -1,4 +1,4 @@
-CS121: Schelling Model of Housing Segregation
+Schelling Model of Housing Segregation
 
 schelling.py: skeleton code. 
 
